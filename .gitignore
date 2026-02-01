@@ -1,0 +1,19 @@
+# Node modules
+myapp/node_modules/
+myapp-be/node_modules/
+
+# Build outputs
+myapp/dist/
+myapp/android/
+
+# Env files
+myapp/.env
+myapp/.env.local
+myapp/.env.*.local
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.DS_Store
